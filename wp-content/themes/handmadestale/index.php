@@ -1,17 +1,13 @@
-<?php get_header(); ?>
+<?php get_template_part('header'); ?>
 
-	<main role="main" aria-label="Content">
-		<!-- section -->
-		<section>
+<main role="main" aria-label="Content">
+    <!-- section -->
+    <section>
 
-			<h1><?php esc_html_e('Latest Posts', 'handmadestale'); ?></h1>
+        <h1><?php esc_html_e('Latest Posts', 'handmadestale'); ?></h1>
 
-			<?php get_template_part('loop'); ?>
+    </section>
+    <!-- /section -->
+</main>
 
-			<?php get_template_part('pagination'); ?>
-
-		</section>
-		<!-- /section -->
-	</main>
-
-<?php get_footer(); ?>
+<?php get_template_part('footer'); ?>

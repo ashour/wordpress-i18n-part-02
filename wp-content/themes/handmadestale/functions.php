@@ -1,6 +1,9 @@
 <?php
 require __DIR__ . '/classes/HandmadesTale_Walker_Nav_Menu.php';
 
+// Load our text domain
+load_theme_textdomain('handmadestale');
+
 /**
  * Register our menus.
  */

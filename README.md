@@ -1,3 +1,7 @@
+**⚠️ This repo is no longer maintained! Please visit https://github.com/PhraseApp-Blog/wordpress-i18n-part-02 for the up-to-date repo.**
+
+---
+
 # Handmade's Tale WordPress Theme
 This code is a companion to a PhraseApp blog article, and it helps provide an
 intro to WordPress theme i18n and l10n for WordPress developers.
